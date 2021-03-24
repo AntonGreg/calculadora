@@ -1,0 +1,15 @@
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\bin\Debug\examenfinal.exe.config
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\bin\Debug\examenfinal.exe
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\bin\Debug\examenfinal.pdb
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.csprojAssemblyReference.cache
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\MainWindow.g.cs
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\App.g.cs
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal_MarkupCompile.cache
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal_MarkupCompile.lref
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\MainWindow.baml
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.g.resources
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.Properties.Resources.resources
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.csproj.GenerateResource.cache
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.csproj.CoreCompileInputs.cache
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.exe
+C:\Users\antonio.pena\source\repos\examenfinal\examenfinal\obj\Debug\examenfinal.pdb
